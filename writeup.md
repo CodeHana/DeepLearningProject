@@ -11,7 +11,7 @@ person may make you feel like home. Although the robots service has been run for
 
 This project is interestd in answering=
 - Can we build a tool to identify the emotion from a person' facial expression using deep learning algorithm?
-- Possible use cases will be helpful in business cases in identify which customer is happy or not satisfied in the store, and adapt different manners to differn types of customers
+- How good can the machine identify the human face expression ?
 
 ## Data
 Web scrapping using BeautifulSoup and collect data from 
